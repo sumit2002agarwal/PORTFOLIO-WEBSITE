@@ -1,7 +1,7 @@
 
 # PERSONAL PORTFOLIO WEBSITE
 
-This is a static website built using React JS  during the process of learning development and as a project for IEEE LEAD 3.0. 
+This is a static responsive website built using React JS  during the process of learning development and as a project for IEEE LEAD 3.0. 
 
 
 
@@ -73,7 +73,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 - [@sumit2002agarwal](https://www.github.com/sumit2002agarwal)
 
 
-## Screenshots
-
-![App Screenshot](https://postimg.cc/0zSZ64zB)
 
