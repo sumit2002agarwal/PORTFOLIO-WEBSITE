@@ -11,22 +11,22 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "DSA PRACTICE TRACKER",
-      description: "This is a simple DSA-TRACKER web page. At any given time,a user can add or delete any question which would allow him/her to keep a track and manage his/her progress.",
+      title: "PAWS FOR YOU",
+      description: "Paws4U is a non-profit organization dedicated to improving the lives of animals through rescue, rehabilitation, and adoption services. With a team of dedicated volunteers and staff, we work tirelessly to give every animal a second chance at a happy and fulfilling life.",
       imgUrl: projImg1,
-      links:"https://github.com/sumit2002agarwal/DSA-TRACKER",
+      links:"https://github.com/sumit2002agarwal/Paws4You",
     },
     {
       title: "What's the Weather?",
-      description: "This is a simple Weather Forecasting web page. It helps you know the whether conditions of any city you wish.",
+      description: "Attendance management web app made to overcome the difficulties that students and teachers face in college. Integrated the Adzuna API  to fetch detailed job listings enhancing studentscaccess to diverse job opportunities",
       imgUrl: projImg2,
-      links:"https://github.com/sumit2002agarwal/weather-plan",
+      links:"https://github.com/sumit2002agarwal/WebApp-2",
     },
     {
       title: "Personal Portfolio Website",
-      description: "This is a simple Portfolio web page. It has a basic navbar to navigate through contents.",
+      description: "Reduce Your Bits is a web application built using React.js that demonstrates the use of Huffman encoding algorithm to improve efficiency in data storage. The webapp showcases the application of data structures and the greedy method to find the optimal encoding for characters, reducing the number of bits required to represent them.",
       imgUrl: projImg3,
-      links:"https://github.com/sumit2002agarwal/DSA-TRACKER",
+      links:"https://github.com/sumit2002agarwal/Reduce-Your-Bits",
     },
     
   ];

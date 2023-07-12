@@ -21,7 +21,7 @@ export const Footer = () => {
               <a target="_blank" href="https://www.instagram.com/agarwal_obviously/"><img src={navIcon3} alt="Icon" /></a>
               <a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGMGGnDsrZxvbnxrgszMFRNXJTvBBknjChtkpHHfhTpzKStGRFrLVNWLwHCMHgMgqNGQMQf"><img src={navIcon4} alt="Icon" /></a>
             </div>
-            <p>Made by Sumit Agarwal using React JS along with React-Bootstrap library.</p>
+            <p>Developed by Sumit Agarwal</p>
           </Col>
         </Row>
       </Container>
